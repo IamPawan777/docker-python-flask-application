@@ -33,12 +33,12 @@ Visit: http://localhost:5000
 
 ### clone in AWS Linux
 ```
-    git clone <repository-link>
+git clone <repository-link>
 ```
 ### change directory here 2 times
 ```
-    cd <project-name>        -> check: $ ls -l
-    cd <project-name>        -> until 'Dockerfile' not showing
+cd <project-name>        -> check: $ ls -l
+cd <project-name>        -> until 'Dockerfile' not showing
 ```
 
 ### Build the image
@@ -63,7 +63,7 @@ docker logs <container_id>
 
 ### search on browser
 ```
-    <EC2-public-ip>:<host-ip>
+<EC2-public-ip>:<host-ip>
 ```
 Eg: 44.192.69.78:8080/
 
