@@ -32,11 +32,11 @@ Visit: http://localhost:5000
 ## 🐳 Step to Containerize the project
 
 ### clone in AWS Linux
-```bash
+```
     git clone <repository-link>
 ```
 ### change directory here 2 times
-```bash
+```
     cd <project-name>        -> check: $ ls -l
     cd <project-name>        -> until 'Dockerfile' not showing
 ```
@@ -64,8 +64,8 @@ docker logs <container_id>
 ### search on browser
 ```
     <EC2-public-ip>:<host-ip>
-Eg: 44.192.69.78:8080/
 ```
+Eg: 44.192.69.78:8080/
 
 ---
 
