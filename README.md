@@ -4,7 +4,7 @@ A simple Python Flask application, Docker-ready and GitHub-ready.
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure 
 
 ```
 flask-app/
